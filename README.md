@@ -3,12 +3,12 @@
 I’m currently learning Computer Science at Hanoi University of Civil Engineering, Vietnam.
 </p> -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240885348-491e3e44-11a0-487a-b07b-717f677bbe4a.gif" width="400" />
+  <img src="https://github.com/huybeofficial/huybeofficial/blob/main/code-break.gif" width="400" />
 </div>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="200" />
+  <img src="https://github.com/huybeofficial/huybeofficial/blob/main/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="200" />
   
-  <img src="https://user-images.githubusercontent.com/74038190/243199547-42077049-1939-493e-9a19-47ca5db36643.gif" width="200" />
+  <img src="https://github.com/huybeofficial/huybeofficial/blob/main/cat-typing.gif" width="200" />
 </div>
 <!--
 **huybeofficial/huybeofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
