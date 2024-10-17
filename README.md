@@ -5,11 +5,6 @@ I’m currently learning Computer Science at Hanoi University of Civil Engineeri
 <div align="center">
   <img src="https://github.com/huybeofficial/huybeofficial/blob/main/code-break.gif" width="400" />
 </div>
-<div align="center">
-  <img src="https://github.com/huybeofficial/huybeofficial/blob/main/238200838-76036311-c8ea-4247-8bf8-a7077623036c.gif" width="200" />
-  
-  <img src="https://github.com/huybeofficial/huybeofficial/blob/main/cat-typing.gif" width="200" />
-</div>
 <!--
 **huybeofficial/huybeofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
